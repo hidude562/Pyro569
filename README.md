@@ -7,16 +7,16 @@
 - Chip-8 Emulator - A Bad CHIP-8 emulator written in C and OpenGL  
 - Timewinder - A bad video game made for Technology Student Association video game design event
 
-## Favorite Languages  
+## Favorite Languages 
+- Java (Thats why I use it a lot)
 - C  
-- C++  
-- C#  
+- C++
 - x86  
 - Rust  
   
 ## Programming Languages I hate on  
-- Java (Even though I use it a lot)
 - Python
+- C#
 - Scala
 
 ## Cool People You Should Check Out  
